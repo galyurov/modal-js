@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport"
+         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   <title>Modal JS</title>
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+   <link rel="stylesheet" href="css/modal.css">
+</head>
+<body>
+   <div class="container">
+      <h1>Практика</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis libero reiciendis repudiandae. Accusantium, ad
+         adipisci amet, animi atque autem commodi dolorem dolores ducimus eius eos eveniet ex explicabo facere facilis
+         harum nam non numquam officia officiis optio provident quam quasi quis quisquam recusandae sunt temporibus tenetur
+         totam velit voluptate, voluptatem voluptates voluptatum? Aliquam animi asperiores aut beatae culpa cum deleniti
+         distinctio doloremque eaque est ex exercitationem illum impedit natus neque odit officiis perspiciatis placeat
+         repellendus, reprehenderit, sed, sequi tempora temporibus unde velit! Ad animi aspernatur autem cupiditate
+         deleniti eius hic id illo inventore nulla pariatur, quibusdam quos ratione veritatis voluptate.</p>
+   </div>
+
+   <div class="vmodal">
+      <div class="vmodal__overlay">
+         <div class="vmodal__window">
+            <div class="vmodal__header">
+               <span class="vmodal__title">Modal title</span>
+               <span class="vmodal__close">&times;</span>
+            </div>
+            <div class="vmodal__body">
+               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam assumenda aut debitis distinctio dolore eveniet iusto magnam magni maiores omnis porro provident, quod quos rem repellat repudiandae tempore! Doloribus, quaerat?</p>
+               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam assumenda aut debitis distinctio dolore eveniet iusto magnam magni maiores omnis porro provident, quod quos rem repellat repudiandae tempore! Doloribus, quaerat?</p>
+            </div>
+            <div class="vmodal__footer">
+               <button>Ok</button>
+               <button>Cancel</button>
+            </div>
+         </div>
+      </div>
+   </div>
+
+   <script src="base.js"></script>
+   <script src="plugins/modal.js"></script>
+   <script src="index.js"></script>
+</body>
+</html>

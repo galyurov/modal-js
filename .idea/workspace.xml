@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95f32523-fddd-4fb7-a8b6-3ba00ccffbd0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZV2FH4cBpPznWbpYHSqHb5sCe6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95f32523-fddd-4fb7-a8b6-3ba00ccffbd0" name="Default Changelist" comment="" />
+      <created>1584909835353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584909835353</updated>
+      <workItem from="1584909837827" duration="1537000" />
+      <workItem from="1584911389114" duration="1226000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="211" y="124" width="814" height="695" key="#HTML" timestamp="1584912583488">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="211" y="124" width="814" height="695" key="#HTML/0.0.2048.1112@0.0.2048.1112" timestamp="1584912583488" />
+    <state x="617" y="215" key="#Language_Injections" timestamp="1584912181544">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="215" key="#Language_Injections/0.0.2048.1112@0.0.2048.1112" timestamp="1584912181544" />
+    <state x="634" y="261" key="#org.intellij.plugins.intelliLang.inject.config.ui.BaseInjectionDialog" timestamp="1584912169109">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="634" y="261" key="#org.intellij.plugins.intelliLang.inject.config.ui.BaseInjectionDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1584912169109" />
+    <state x="789" y="297" key="FileChooserDialogImpl" timestamp="1584912180043">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="789" y="297" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1584912180043" />
+    <state x="526" y="198" key="SettingsEditor" timestamp="1584912445876">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="526" y="198" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1584912445876" />
+    <state x="522" y="144" width="672" height="678" key="search.everywhere.popup" timestamp="1584912470424">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="522" y="144" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1584912470424" />
+  </component>
+</project>
