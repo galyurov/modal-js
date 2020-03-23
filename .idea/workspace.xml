@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95f32523-fddd-4fb7-a8b6-3ba00ccffbd0" name="Default Changelist" comment="" />
+    <list default="true" id="95f32523-fddd-4fb7-a8b6-3ba00ccffbd0" name="Default Changelist" comment="some edit and add closing, destroying modal">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/modal.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/modal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/modal.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZV2FH4cBpPznWbpYHSqHb5sCe6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -38,11 +48,17 @@
       <updated>1584909835353</updated>
       <workItem from="1584909837827" duration="1537000" />
       <workItem from="1584911389114" duration="1226000" />
+      <workItem from="1584915398473" duration="86000" />
+      <workItem from="1584973679555" duration="3425000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="some edit and add closing, destroying modal" />
+    <option name="LAST_COMMIT_MESSAGE" value="some edit and add closing, destroying modal" />
   </component>
   <component name="WindowStateProjectService">
     <state x="211" y="124" width="814" height="695" key="#HTML" timestamp="1584912583488">
@@ -57,6 +73,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="634" y="261" key="#org.intellij.plugins.intelliLang.inject.config.ui.BaseInjectionDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1584912169109" />
+    <state x="633" y="148" key="CommitChangelistDialog2" timestamp="1584977098814">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="633" y="148" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1584977098814" />
     <state x="789" y="297" key="FileChooserDialogImpl" timestamp="1584912180043">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>

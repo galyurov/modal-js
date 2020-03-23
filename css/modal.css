@@ -1,16 +1,53 @@
+.vmodal {
+
+}
+.vmodal.open .vmodal__window,
+.vmodal.open .vmodal__overlay {
+	opacity: 1;
+	z-index: 1000;
+}
+.vmodal.hide .vmodal__window,
+.vmodal.hide .vmodal__overlay {
+	opacity: 1;
+	z-index: 1000;
+}
+
+.vmodal.open .vmodal__overlay {
+	background: rgba(0,0,0, 0.5);
+}
+.vmodal.open .vmodal__window {
+	transform: translateY(100px);
+
+}
+.vmodal.hide .vmodal__overlay {
+	background: rgba(0,0,0, 0);
+}
+.vmodal.hide .vmodal__window {
+	transform: translateY(-200px);
+
+}
+
+.vmodal__window, .vmodal__overlay {
+	opacity: 0;
+	z-index: -1;
+}
+
 .vmodal__overlay {
 	position: fixed;
 	top: 0;
 	right: 0;
 	left: 0;
 	bottom: 0;
-	background: rgba(0,0,0, .5);
+	background: rgba(0,0,0, 0);
+	transition: background .2s ease-in;
 }
 .vmodal__window {
 	width: 600px;
 	border-radius: 5px;
 	background: #fff;
-	margin: 100px auto;
+	margin: 0 auto;
+	transform: translateY(-200px);
+	transition: transform .2s ease-in;
 
 }
 .vmodal__header {
