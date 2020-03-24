@@ -24,8 +24,6 @@ function _createModalFooter(buttons = []) {
 }
 
 
-
-
 function _createModal(options) {
 	const DEFAULT_WIDTH = '600px';
 	const modal = document.createElement('div');
@@ -66,6 +64,9 @@ $.modal = function (options) {
 			$modal.classList.remove('open');
 			$modal.classList.add('hide');
 			setTimeout(()=> {
+				if(typeof options.onClose === 'function') {
+					options.onClose()
+				}
 				$modal.classList.remove('hide');
 				closing = false
 			},animSpeed)
@@ -81,7 +82,7 @@ $.modal = function (options) {
 
 	return Object.assign(modal, {
 		destroy() {
-			$modal.parentNode.removeChild($modal);
+			$modal.remove();
 			$modal.removeEventListener('click', listener);
 			destroyed = true
 		},
